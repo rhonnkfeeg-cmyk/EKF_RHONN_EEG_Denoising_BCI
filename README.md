@@ -66,4 +66,5 @@ The program is developed in **MATLAB** and **Python**, and the construction of t
 ## Citation
 
 If you use this program in your research, please cite:
-Martínez Madrid, E.; Medrano Hermosillo, J. A.; Ramírez Quintana, J. A.; Rodríguez Mata, A. E.; González Huitrón, V. A.; Urbina Leos, I. R. (2025). Denoising of EEG Signals in Brain–Computer Interfaces Using Extended Kalman-Filtered Recurrent High-Order Neural Networks.
+Enrique~Martínez-Madrid, Jesús~A.~Medrano-Hermosillo*, Juan.~A.~Ramírez-Quintana, ~Iván~R.~Urbina-Leos Francisco,
+        Oscar J. Suárez-Sierra and Francisco Ronay Lopez Estrada (2026). Denoising of EEG Signals in Brain–Computer Interfaces Using Extended Kalman-Filtered Recurrent High-Order Neural Networks.
