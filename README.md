@@ -9,7 +9,7 @@ The RHONN is trained using the **Extended Kalman Filter (EKF)**, which provides 
 The program is developed in **MATLAB** and **Python**, and the construction of the model and RHONN architecture is fully explained and detailed in the article:  
 
 **“Denoising of EEG Signals in Brain–Computer Interfaces Using Extended Kalman-Filtered Recurrent High-Order Neural Networks”**  
-**Authors:** Martínez Madrid, Enrique; Medrano Hermosillo, Jesús Alfonso; Ramírez Quintana, Juan Alberto; Rodríguez Mata, Abraham Efraim; González Huitrón, Victor Alejandro; Urbina Leos, Iván Ramón
+**Authors:** Enrique Martínez-Madrid, Jesús A. Medrano-Hermosillo*, Juan. A. Ramírez-Quintana,  Iván R. Urbina-Leos Francisco, Oscar J. Suárez-Sierra and Francisco Ronay Lopez Estrada
 
 ---
 
